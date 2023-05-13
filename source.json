@@ -1,13 +1,13 @@
 {
     "name":"TORISOUP VPM repository",
     "id":"jp.torisoup.versioncheker",
-    "url":"https://torisoup.io/TORISOUP_VPM/index.json",
+    "url":"https://torisoup.github.io/TORISOUP_VPM/index.json",
     "author":{
         "email":"tori.birdstrike@gmail.com",
         "name":"TORISOUP",
         "url":"https://twitter.com/toRisouP"
     },
-    "description":"TorisoupVersionChecker package repository",
+    "description":"TORISOUP VPM package repository",
     "infoLink":{
         "url":"https://github.com/TORISOUP/TORISOUP_VPM",
         "text":"View on GitHub"
