@@ -1,5 +1,7 @@
 # これはなに
 
-[TORISOUP Version Cheker](https://github.com/TORISOUP/TorisoupVersionChecker) の配布リポジトリです。
+TORISOUPが作成したアセットを配布するVPMリポジトリです
 
-導入方法や使い方は[こちら](https://github.com/TORISOUP/TorisoupVersionChecker/wiki)
+# 配布物
+
+* [TORISOUP Version Cheker](https://github.com/TORISOUP/TorisoupVersionChecker) 
