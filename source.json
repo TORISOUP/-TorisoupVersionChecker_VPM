@@ -1,24 +1,24 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "name":"TORISOUP VPM repository",
+    "id":"jp.torisoup.versioncheker",
+    "url":"https://torisoup.io/TORISOUP_VPM/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"tori.birdstrike@gmail.com",
+        "name":"TORISOUP",
+        "url":"https://twitter.com/toRisouP"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"TorisoupVersionChecker package repository",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/TORISOUP/TORISOUP_VPM",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "vrchat-community/clientsim"
+        "TORISOUP/TorisoupVersionChecker"
     ],
     "packages":[
         {
-            "name":"com.vrchat.udonsharp",
+            "name":"jp.torisoup.versioncheker",
             "releases":[
                 "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
                 "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
